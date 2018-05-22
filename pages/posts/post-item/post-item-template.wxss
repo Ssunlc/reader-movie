@@ -1,0 +1,67 @@
+/* 新闻列表容器 */
+.post-container{
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  margin: 10px 0 40px 0;
+  border-bottom: 1px solid #ededed;
+  border-top: 1px solid #ededed;
+  padding-bottom: 5px;
+}
+.post-author-date{
+  margin: 10rpx 0 20rpx 10rpx;
+}
+
+.post-author{
+  width: 60rpx;
+  height: 60rpx;
+  vertical-align: middle;
+}
+.post-date{
+  margin-left: 20rpx;
+  vertical-align: middle;
+  font-size: 26rpx;
+  margin-bottom: 10px;
+}
+.post-title{
+  font-size: 34rpx;
+  color: #333;
+  font-weight: 600;
+  margin: 0 0 10px 10px;
+}
+/* 内容图片样式 */
+.post-image{
+  margin-left: 16px;
+  margin-bottom: 5px;
+  width: 100%;
+  margin: auto 0;
+}
+/* 文章内容 */
+.post-content{
+  font-size: 28rpx;
+  margin-bottom: 20rpx;
+  margin-left: 20rpx;
+  color: #666;
+  letter-spacing: 2rpx;
+  line-height: 40rpx;
+}
+
+.post-like{
+  font-size: 13px;
+  display: flex;
+  flex-direction: row;
+  line-height: 16px;
+  margin-left: 10px;
+}
+
+.post-like-image{
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.post-like-font{
+  vertical-align: middle;
+  margin-right: 20px;
+}
