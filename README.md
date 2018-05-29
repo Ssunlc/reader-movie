@@ -7,7 +7,7 @@
 - x.navigateTo({ url: '../posts/post', })是跳到下一子级的页面，有对应的返回按钮，当前页面触发的是onHide（）事件。（限制五级跳转！！！） wx.redirectTo({ url: '../posts/post', })是平行页面跳转（关闭当前页面），无返回按钮，触发的是onUnload（）事件
 - 引用本地数据jsData时，必须要用相对路径，绝对路径报错 var postsData = reuqire('../../data/posts-data.js') 
 ## 效果图请看“效果图片”文件夹
-![pictureShow]()
+![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/welcome.png)
 ![pictureShow]()
 ![pictureShow]()
 ![pictureShow]()
