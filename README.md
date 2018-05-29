@@ -8,8 +8,8 @@
 - 引用本地数据jsData时，必须要用相对路径，绝对路径报错 var postsData = reuqire('../../data/posts-data.js') 
 ## 效果图请看“效果图片”文件夹
 ![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/welcome.png)
-![pictureShow]()
-![pictureShow]()
-![pictureShow]()
-![pictureShow]()
-![pictureShow]()
+![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/newsList.png)
+![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/newDetail.png)
+![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/music.png)
+![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/movies.png)
+![pictureShow](https://github.com/Ssunlc/reader-movie/raw/master/pictureShow/moviesList.png)
